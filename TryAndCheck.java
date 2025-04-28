@@ -8,6 +8,10 @@ class TryAndCheck
     int intNumber = 0;
     float floatNumber = 0.0f;
     
+    // System.out.println("Enter any Integer Number : ");
+    // intNumber = Integer.parseInt(in.nextLine());
+    // System.out.println("Enter any float Number :");
+    // floatNumber = in.nextFloat();
     try
         {
           System.out.println("Enter any Integer Number : ");
